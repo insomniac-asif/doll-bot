@@ -1,0 +1,6 @@
+node_modules/
+.env
+
+# Runtime per-server state (created at runtime; never commit real server data)
+src/data/*/
+!src/data/.gitkeep
